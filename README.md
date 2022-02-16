@@ -17,4 +17,4 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2E3035??style=for-the-badge&logo=Telegram)](https://t.me/OlgaRomadina)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-2E3035??style=for-the-badge&logo=WhatsApp)](https://wa.me/79313608813)
-[![email](https://img.shields.io/badge/-email-2E3035??style=for-the-badge&logo=email)](mailto:olga_romadina@mail.ru)
+[![mail.ru](https://img.shields.io/badge/-mail.ru-2E3035??style=for-the-badge&logo=mail.ru)](mailto:olga_romadina@mail.ru)
