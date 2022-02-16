@@ -1,7 +1,8 @@
 ## <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="25px"/> Приветствую!
-Меня зовут Ольга и я в поисках команды мечты. Буду рада предложениям о работе!
+## Меня зовут Ольга и я в поисках команды мечты. Буду рада предложениям о работе!
 
 ### Мой техстек:
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2E3035??style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-2E3035??style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-2E3035??style=for-the-badge&logo=Redux)
@@ -12,4 +13,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2E3035??style=for-the-badge&logo=PostgreSQL)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-2E3035??style=for-the-badge&logo=Sequelize)
 
+### Способы связи:
+
+![Telegram](https://img.shields.io/badge/-Telegram-2E3035??style=for-the-badge&logo=Telegram)(https://t.me/OlgaRomadina)
+![React](https://img.shields.io/badge/-React-2E3035??style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-2E3035??style=for-the-badge&logo=Redux)
+![HTML5](https://img.shields.io/badge/-HTML5-2E3035??style=for-the-badge&logo=HTML5)
 
