@@ -1,6 +1,5 @@
 ## <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="25px"/> Приветствую!
-
-## Меня зовут Ольга и я в поисках команды мечты. Буду рада предложениям о работе!
+Меня зовут Ольга и я в поисках команды мечты. Буду рада предложениям о работе!
 
 ### Мой техстек:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2E3035??style=for-the-badge&logo=JavaScript)
