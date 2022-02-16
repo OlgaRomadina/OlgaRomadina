@@ -3,6 +3,6 @@
 ### Меня зовут Ольга и я в поисках команды мечты. Буду рада предложениям о работе!
 
 ### Мой техстек:
-![Express](https://img.shields.io/badge/-Express-black?style=social&logo=express)
+![Express](https://img.shields.io/badge/-Express-black??style=for-the-badge&logo=express)
 
 
